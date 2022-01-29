@@ -1,5 +1,13 @@
+a {
+  color: #ccc 
+}
 .App {
+  background-color: rgb(29, 27, 27);
   text-align: center;
+  color: white;
+  display: flex;
+  flex: 1;
+  height: 100vh;
 }
 
 .App-logo {
